@@ -11,7 +11,7 @@ from pypdf import PdfReader
 from docx import Document
 
 
-MODEL_NAME = "models/gemini-1.5-flash-latesT"
+MODEL_NAME = "models/gemini-1.5-flash"
 
 
 class Improvement(BaseModel):
